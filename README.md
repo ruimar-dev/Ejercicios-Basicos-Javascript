@@ -1,17 +1,19 @@
 <h1>Ejercicios para aprender los aspectos basicos del lenguaje</h1>
 
-Este repositorio contiene una lista de ejercicios básicos de JavaScript para personas que están empezando con la programación. Los ejercicios son de aspectos basicos como:
+<h3>Este repositorio contiene una lista de ejercicios básicos de JavaScript para personas que están empezando con la programación. Los ejercicios son de aspectos basicos como:</h3>
+<ul>
+    <li>Estructuras de control selectivas</li>
 
-Estructuras de control selectivas
+    <li>Estructuras repetitivas</li>
 
-Estructuras repetitivas
+    <li>Arrays</li>
 
-Arrays
+    <li>Conjuntos</li>
 
-Conjuntos
+    <li>Mapas</li>
 
-Mapas
+    <li>Funciones</li>
 
-Funciones
+</ul>
 
-Ejercicios con explicacion de como se resolvieron y enunciados de los mismos.
+<p>Ejercicios con explicacion de como se resolvieron y enunciados de los mismos.</p>
