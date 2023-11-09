@@ -35,7 +35,17 @@ Haz un programa en el que puedas explicar cuándo un bucle do while es mejor que
 <li>Puedes poner una explicación con comentarios y un pequeño programa.</li>
 </ul>
 
-<h3>5. Ejercicio 5</h3>
+h3>5. Ejercicio 5</h3>
+
+Crea un programa que haga el factorial de un número
+
+<ul>
+<li>El programa pedirá al usuario un número.</li>
+<li>El programa devolverá el factorial de ese número.</li>
+<li>El resultado se mostrará por consola.</li>
+</ul>
+
+<h3>6. Ejercicio 6</h3>
 
 Crea un programa que muestre los números impares que no sean múltiplos de 3 ni de 7 que hay del 100 al 1
 
@@ -44,7 +54,7 @@ Crea un programa que muestre los números impares que no sean múltiplos de 3 ni
 <li>El resultado se mostrará por consola.</li>
 </ul>
 
-<h3>6. Ejercicio 6</h3>
+<h3>7. Ejercicio 7</h3>
 
 Escribe un programa que:
 
