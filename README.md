@@ -1,4 +1,4 @@
-#Ejercicios para aprender los aspectos basicos del lenguaje 
+<h1>Ejercicios para aprender los aspectos basicos del lenguaje</h1>
 
 Este repositorio contiene una lista de ejercicios básicos de JavaScript para personas que están empezando con la programación. Los ejercicios son de aspectos basicos como:
 
