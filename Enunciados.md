@@ -19,7 +19,7 @@ Crea un programa que calcule la letra de un DNI que debe introducir el usuario p
 
 <h3>3. Ejercicio 3</h3>
 
-Escribe un conversor de tiempo<
+Escribe un conversor de tiempo
 
 <ul>
 <li>El programa debe pedirle al usuario una cantidad de días, horas y minutos.</li>
