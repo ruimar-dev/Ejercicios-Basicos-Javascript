@@ -3,6 +3,7 @@
 <h2>Arrays</h2>
 
 <h3>1. Ejercicio 1</h3>
+
 Crea un array de 100 elementos y rellenalos con numeros aleatorios muestra en consola una lista con todos los numeros pares del array.
 
 <h3>2. Ejercicio 2</h3>
